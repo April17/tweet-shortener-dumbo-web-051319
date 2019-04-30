@@ -52,5 +52,5 @@ def shortened_tweet_truncator (line)
   else
     newLine = line
   end
-  return newLin
+  return newLine
 end
